@@ -1,0 +1,42 @@
+3vb@import url('https://fonts.googleapis.com/css?family=Sigmar+One');
+
+body,img,h3.heading,p.facts,ul.nodots,p.description{
+	border-radius:10px;
+	border-width: 2px;
+	border-style: solid;
+    }
+body{
+	width:310px;
+    }
+img {
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	width :300px;
+	height:200px;
+	}
+h3.heading{
+	font-family:"Sigmar One";
+	font-size:25px;
+	text-align: center;
+	margin:2px;
+    }
+p.facts{
+	font-style: italic;
+	text-align: center;
+	font-size:x-large;
+	margin:2px;
+	}
+ul.nodots{
+	list-style-type:none;
+    text-align:left;
+    padding-left:8px;
+    margin:2px;
+    }
+span.bold{
+	font-weight:bolder;
+	}
+p.description{
+	text-align:justify;
+	margin:2px;
+	}
