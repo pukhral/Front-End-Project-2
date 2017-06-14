@@ -5,42 +5,49 @@ img,
 .heading,
 .facts,
 .no-dots,
-.description{
-	border-radius:10px;
-	border: 2px solid;
-	}
-body{
-	width:310px;
-    }
+.description {
+    border-radius: 10px;
+    border: 2px solid;
+}
+
+body {
+    width: 310px;
+}
+
 img {
-	display:block;
-	margin-left:auto;
-	margin-right:auto;
-	width :300px;
-	height:200px;
-	}
-.heading{
-	font-family:"Sigmar One";
-	font-size:25px;
-	text-align: center;
-	margin:2px;
-    }
-.facts{
-	font-style: italic;
-	text-align: center;
-	font-size:x-large;
-	margin:2px;
-	}
-.no-dots{
-	list-style-type:none;
-    text-align:left;
-    padding-left:8px;
-    margin:2px;
-    }
-.bold{
-	font-weight:bolder;
-	}
-.description{
-	text-align:justify;
-	margin:2px;
-	}
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: 200px;
+}
+
+.heading {
+    font-family: "Sigmar One";
+    font-size: 25px;
+    text-align: center;
+    margin: 2px;
+}
+
+.facts {
+    font-style: italic;
+    text-align: center;
+    font-size: x-large;
+    margin: 2px;
+}
+
+.no-dots {
+    list-style-type: none;
+    text-align: left;
+    padding-left: 8px;
+    margin: 2px;
+}
+
+.bold {
+    font-weight: bolder;
+}
+
+.description {
+    text-align: justify;
+    margin: 2px;
+}
